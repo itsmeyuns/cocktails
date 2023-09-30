@@ -70,7 +70,7 @@ function TestComp() {
     return (
       <div className="section">
         <header>
-          <Link to="/">
+          <Link to="/cocktails">
             <button className="btn">Back Home</button>
           </Link>
         </header>
